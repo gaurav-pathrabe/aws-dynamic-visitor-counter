@@ -1,0 +1,20 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+venv/
+.envrc
+
+# OS-generated
+.DS_Store
+Thumbs.db
+
+# SQLite database
+counter.db
+
+# Logs
+*.log
